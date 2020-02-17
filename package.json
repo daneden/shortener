@@ -1,0 +1,15 @@
+{
+  "name": "shortener",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/daneden/shortener.git",
+  "author": "Daniel Eden <dan.eden@me.com>",
+  "baseUrl": "https://dndn.in",
+  "license": "MIT",
+  "dependencies": {
+    "netlify-shortener": "1.0.4"
+  },
+  "scripts": {
+    "shorten": "netlify-shortener"
+  }
+}
